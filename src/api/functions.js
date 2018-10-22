@@ -1,6 +1,6 @@
 import axios from "axios"
 
-let FLASK_URL = "http://127.0.0.1:5000"
+let FLASK_URL = "http://bookra.pythonanywhere.com/"
 
 const sampleReturn = {
     colorizedText: "I'm returning from axios...sych!",
