@@ -1,5 +1,36 @@
-@include media-breakpoint-up(sm){
-  #topicList{
-    display: inline;
-  }
+.topic_0{
+  background-color: #3DE089 
+}
+.topic_1{
+  background-color: rgb(139, 192, 236)
+}
+.topic_2{
+  background-color: #FF7046
+}
+.topic_3{
+  background-color: #FFC046
+}
+.topic_4{
+  background-color: #E4AAD1;
+  /* color : grey */
+}
+.topic_5{
+  background-color: #C7DBE6;
+}
+
+.colorSpace{
+  background-color: None
+}
+
+.bg-1{
+  background-color: #0C1218
+}
+
+.bg-2{
+  background-color: ivory
+}
+
+.bg-3{
+  background-color: #251511;
+  color: seashell
 }
